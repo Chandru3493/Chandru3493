@@ -12,7 +12,7 @@ My name is Chandru, a passionate self-taught developer from Chennai, India.
   <img src="images\git.png" alt="Git" width="40" height="40">
   <img src="images\html5.png" alt="html" width="40" height="40">
   <img src="images\css3.png" alt="css" width="40" height="40">
-  <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png" alt="js" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40">
 </p>
 
 ## 🔗 &nbsp;**Keep in touch**
