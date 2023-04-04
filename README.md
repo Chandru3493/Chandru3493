@@ -1,9 +1,11 @@
 ![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 # 💫 About Me:
+
 Hello! My name is Chandru, and I am an undergraduate Information Technology student. I am passionate about using my skills to make a positive impact and enable personal and professional growth.
 
 # 💻 Tech Stack:
+
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -15,6 +17,7 @@ Hello! My name is Chandru, and I am an undergraduate Information Technology stud
 </p>
 
 # 📊 GitHub Stats:
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandru3493&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
 <br />
@@ -22,9 +25,10 @@ Hello! My name is Chandru, and I am an undergraduate Information Technology stud
 </p>
 
 # 🌐 Socials:
+
 <p align="center">
-<a href="https://www.linkedin.com/in/chandru3493/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/chandru_3494/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://facebook.com/CHANDRU3493" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://twitter.com/chandru_3493" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/chandru3493/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/chandru_3494/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://facebook.com/CHANDRU3493"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://twitter.com/CHANDRU4221"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
 </p>
