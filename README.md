@@ -19,10 +19,10 @@ Hello! My name is Chandru, and I am an undergraduate Information Technology stud
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandru3493&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
-<br />
 <img src="https://github-readme-stats.vercel.app/api?username=Chandru3493&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github commite" />
 <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandru3493&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandru3493&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
